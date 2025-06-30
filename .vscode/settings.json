@@ -1,0 +1,7 @@
+{
+  "jest.pathToJest": ".\\node_modules\\.bin\\jest.cmd",
+  "jest.jestCommandLine": ".\\node_modules\\.bin\\jest.cmd --watchAll=false",
+  "jest.rootPath": ".",
+  "jest.enableCodeLens": true,
+  "jest.autoRun": "off"
+}
